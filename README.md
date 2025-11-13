@@ -1,4 +1,4 @@
-# Ya Tetris
+# Yet Another Tetris
 
 Yet Another Tetris
 
